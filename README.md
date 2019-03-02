@@ -16,5 +16,7 @@ they might be able to.
 Other wise please let me know if you have 
 any other questions or suggestions. 
 
+I will continue to add to this repo
+
 
 Thank you
