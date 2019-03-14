@@ -16,7 +16,7 @@ they might be able to.
 Other wise please let me know if you have 
 any other questions or suggestions. 
 
-I will continue to add to this repo
+I will continue to add to this repository as I progress
 
 
 Thank you
