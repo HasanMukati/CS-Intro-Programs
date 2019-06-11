@@ -18,5 +18,7 @@ any other questions or suggestions.
 
 I will continue to add to this repository as I progress
 
+Classes Covered: Intro To Programming, Computer Science 1&2, Software Development Methods.
+
 
 Thank you
